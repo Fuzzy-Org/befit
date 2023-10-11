@@ -2,13 +2,13 @@
     "version": "0.1.0",
     "configurations": [
         {
-            "name": "Streamlit debug",
+            "name": "Streamlit",
             "type": "python",
             "request": "launch",
             "program": "C:\\Users\\semta\\miniconda3\\Scripts\\streamlit.exe",
             "args": [
                 "run",
-                "eat_and_fit.py"
+                "main.py"
             ]
         }
     ]
