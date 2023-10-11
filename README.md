@@ -1,8 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/semanticWeebs/SemanticWeb2022">
-    <img src="images/fuzzy.png" alt="Logo">
-  </a>
+ <img src="images/fuzzy.png" alt="Logo">
    <h3 align="center">BeFit</h3>
   <p align="center">
     Репозиторій для студентського проекту.
@@ -35,5 +33,3 @@ streamlit run main.py
 
 - [@Danylo](https://github.com/danyaobertan)
 - [@Taras](https://github.com/Gavair)
-
-<p align="right">(<a href="#readme-top">повернутися наверх</a>)</p>
