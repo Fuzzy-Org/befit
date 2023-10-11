@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS LowCarb;
+
 CREATE TABLE if not exists LowCarb (
 	Calories int not null,
     Nutrition varchar(255),

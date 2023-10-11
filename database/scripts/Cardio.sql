@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS Cardio;
+
 CREATE TABLE if not exists Cardio (
 	Stage int not null,
     Body int not null,

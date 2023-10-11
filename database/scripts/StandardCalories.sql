@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS StandardCalories;
+
 CREATE TABLE if not exists StandardCalories (
 	Stage int not null,
     Body int not null,
