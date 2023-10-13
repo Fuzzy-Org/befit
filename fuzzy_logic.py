@@ -146,14 +146,3 @@ class FuzzyLogic:
         print("____________________________________________________________________")
 
         return self.final_decision_on_body
-
-
-if __name__ == "__main__":
-    # Тестування
-    fl = FuzzyLogic()
-    height = 160
-    weight = 75
-    fl.do_fuzzification_of_height(height, 0)
-    fl.do_fuzzification_of_weight(weight, 0)
-    fl.do_fuzzy_inference()
-    fl.do_defuzzification_of_body()

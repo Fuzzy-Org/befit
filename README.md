@@ -27,6 +27,14 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
+### Тестування
+
+Для тестування додатку необхідно виконати наступну команду:
+
+```bash
+python -m unittest fuzzy_logic_test
+```
+
 Таким чином, сервер буде запущено за адресою localhost:8501
 
 ### Класні челіки
